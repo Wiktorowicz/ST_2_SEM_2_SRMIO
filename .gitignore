@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset
+datasets/
+*.cache
+
+# Wyniki treningów
+runs/
+
+# Pliki tymczasowe
+*.wav
+*.mp3
+
+# System
+.DS_Store
+Thumbs.db
